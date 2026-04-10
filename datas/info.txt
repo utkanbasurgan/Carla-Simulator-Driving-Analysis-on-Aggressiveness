@@ -1,5 +1,1 @@
 Gathered in CARLA Simulator.
-x
-y
-z
-.
